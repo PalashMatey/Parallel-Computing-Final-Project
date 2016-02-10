@@ -1,0 +1,2 @@
+[<pyopencl.Device 'Tesla K40c' on 'NVIDIA CUDA' at 0x2455370>, <pyopencl.Device 'Quadro K5000' on 'NVIDIA CUDA' at 0x2c976f0>]
+(375, 450)  is the image dimension.
